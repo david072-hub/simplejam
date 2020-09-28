@@ -1,1 +1,1 @@
-# The most basoc JAMstack demo site.
+# The most basic JAMstack demo site.
